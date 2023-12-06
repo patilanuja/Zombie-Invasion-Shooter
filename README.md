@@ -1,6 +1,6 @@
 # Shoot-At-Sight
 ________________________________________________________________________________________________________________________________________________________________________________
-## Shoot At Sight is a 2D game written in Python 
+## Shoot At Sight - a 2D game written in Python 
 ________________________________________________________________________________________________________________________________________________________________________________
 
 Shoot at Sight is a top-down shooter game where you play as a human who must defend yourself from waves of zombies. You can move around the screen using the "A" and "D" keys, and you can shoot zombies using the mouse. You have a limited number of lives, so you need to be careful not to get hit.
